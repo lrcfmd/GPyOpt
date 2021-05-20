@@ -1,4 +1,11 @@
- # End of maintenance for GPyOpt
+# Adding to GPyOpt: 
+
+- use of uncertainty of surrogate function to determine the End of Run
+
+May'21
+Andrij Vasylenko 
+
+# End of maintenance for GPyOpt
 
 Dear GPyOpt community!
 
